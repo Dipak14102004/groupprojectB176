@@ -21,7 +21,13 @@ The primary goal is to determine if popularity correlates with higher ratings us
 
 ### Output Images
 * **`histogram.png`**: Histogram of vote distribution.
+  
+ ![imdbproject](https://github.com/user-attachments/assets/76d37ee0-191d-4f14-a27d-5cde59d58b85)
+
 * **`scatterplot.png`**: Scatter plot visualization.
+  
+ ![imdbproject2](https://github.com/user-attachments/assets/1d047716-c714-4cde-ae95-b5a97d04be85)
+
 
 ## Prerequisites & Installation
 
